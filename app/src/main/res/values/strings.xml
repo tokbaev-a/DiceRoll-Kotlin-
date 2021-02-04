@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dice Roll (Kotlin)</string>
+    <string name="let_roll">Let roll</string>
+</resources>
